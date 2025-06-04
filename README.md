@@ -1,7 +1,8 @@
 <!-- Intro GIF -->
 <p align="center">
-  <img src="your-gif.gif" alt="Animated intro" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlrMW02ODN0ZmQ3dng1ZWlnbXl1djh2djVrYzdldGd1bDlueXZmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSM6HdOicCahnOZ5hM/giphy.gif" alt="Intro GIF" width="100%" />
 </p>
+
 
 ## Hi, I'm Brian Gilbert 👋
 
