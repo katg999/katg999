@@ -9,13 +9,28 @@
 **Solution Engineer** | FullStack Developer ⚙️ | Web3 Enthusiast ⛓️  
 *"Stay Foolish, Stay Hungry."* 🚀
 
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI"/>
+</p>
+
+---
+
 
 ---
 
 ### 💼 What I Do
 - 👨‍💻 Building **[Ketiai](https://ketiai.com/)** – Telemedicine Health Platform (React.js + PHP)
 - ⚙️ Working on **Web3, Solidity**, and blockchain for real-world impact
-- 🌍 Focused on **crypto adoption** & **fintech solutions** for Africa
+-  📊 Data Storytelling(Weekends)
 
 ---
 
@@ -24,13 +39,7 @@
 - 🤖 [**SandiAI**](https://sandidotai.com) – AI-Powered Platform
 - ✈️ [**Travel App**](https://travelapplicationreact.netlify.app/) – Smart packing assistant
 - 🎮 [**RPG Game**](https://roleplaying.netlify.app/) – Pure JS adventure game
-
----
-
-### 🤝 Let’s Collaborate On
-- Crypto & Web3 projects 🌐
-- Blockchain for social good 🤝
-- Open-source & fintech solutions 💰
+- | [Data Portfolio](https://brianthesoftwareengineer.netlify.app/) | Power BI & Tableau dashboards | Power BI, SQL |
 
 ---
 
@@ -41,5 +50,6 @@
 ---
 
 ### ⚡ Fun Fact
-I believe **Africa is the next frontier for crypto adoption**, and I’m here to build it! 🌍🚀
+I once trained a model to predict crypto prices... until I learned the market is *slightly* unpredictable 😅  
+**Current Mission:** Building tech that bridges healthcare and finance in Africa 🌍
 
