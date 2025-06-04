@@ -5,8 +5,9 @@
 
 ## Hi, I'm Brian Gilbert 👋
 
-**Solution Engineer** | **FullStack Development**  && Passionate **Web3** & 
+**Solution Engineer** | FullStack Developer ⚙️ | Web3 Enthusiast ⛓️  
 *"Stay Foolish, Stay Hungry."* 🚀
+
 
 ---
 
